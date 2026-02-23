@@ -26,37 +26,32 @@ export interface SocialLinkItem {
 
 export const socialLinks: SocialLinkItem[] = [
   {
-    href: 'https://github.com/abdulvahabaa',
+    href: 'https://github.com/sanashaju',
     label: 'GitHub',
     iconKey: 'github',
   },
   {
-    href: 'https://www.linkedin.com/in/abdulvahabaa/',
+    href: 'https://www.linkedin.com/in/sanashaju/',
     label: 'LinkedIn',
     iconKey: 'linkedin',
   },
+  // {
+  //   href: 'https://www.instagram.com/abubakthiyar',
+  //   label: 'Instagram',
+  //   iconKey: 'instagram',
+  // },
   {
-    href: 'https://www.youtube.com/@eldoradotechie',
-    label: 'YouTube',
-    iconKey: 'youtube',
-  },
-  {
-    href: 'https://www.instagram.com/abubakthiyar',
-    label: 'Instagram',
-    iconKey: 'instagram',
-  },
-  {
-    href: 'https://wa.me/919747733770',
+    href: 'https://wa.me/917736709420',
     label: 'WhatsApp',
     iconKey: 'whatsapp',
   },
   {
-    href: 'mailto:abdulvahabaa.official@gmail.com',
+    href: 'mailto:sanashajuillikkal@gmail.com',
     label: 'Gmail',
     iconKey: 'gmail',
   },
   {
-    href: 'https://leetcode.com/u/abdulvahabaa/',
+    href: 'https://leetcode.com/u/sanaillikkal/',
     label: 'LeetCode',
     iconKey: 'leetcode',
   },

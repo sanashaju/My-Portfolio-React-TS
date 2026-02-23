@@ -6,8 +6,8 @@ export function StructuredData() {
     const personSchema = {
       '@context': 'https://schema.org',
       '@type': 'Person',
-      name: 'Abdul Vahab A A',
-      url: 'https://abdulvahabaa.in',
+      name: 'Sana Shaju',
+      url: 'https://sanashaju.in',
       image: 'https://abdulvahabaa.in/assets/profile.png',
       jobTitle: 'Full Stack Developer',
       worksFor: {
@@ -21,12 +21,12 @@ export function StructuredData() {
         addressCountry: 'IN',
       },
       sameAs: [
-        'https://github.com/abdulvahabaa',
+        'https://github.com/sanashaju',
         // Add your social media profiles here
-        'https://linkedin.com/in/abdulvahabaa',
-        'https://x.com/abdulvahabaa',
-        'https://leetcode.com/u/abdulvahabaa/',
-        'https://twitter.com/abdulvahabaa',
+        'https://linkedin.com/in/sanashaju',
+        'https://x.com/sanashaju',
+        'https://leetcode.com/u/sanaillikkal/',
+        'https://twitter.com/sanashaju',
       ],
       knowsAbout: [
         'Full Stack Development',

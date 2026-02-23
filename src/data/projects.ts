@@ -58,7 +58,7 @@ export const projects: ProjectItem[] = [
       'My portfolio website, showcasing my professional background and more. Clean, responsive, and shows off my work while keeping things simple and professional.',
     image: '/assets/img/portfolio.png',
     link: 'https://abdulvahabaaa.in/',
-    github: 'https://github.com/abdulvahabaa/react-ts-personal-portfolio',
+    github: 'https://github.com/sanashaju/My-Portfolio-React-TS',
     techStack: [
       { icon: SiHtml5, name: 'HTML', color: '#e34c26' },
       { icon: SiCss3, name: 'CSS', color: '#264de4' },
@@ -73,7 +73,7 @@ export const projects: ProjectItem[] = [
       'Production-grade REST API built with Node.js, TypeScript, Express, MongoDB, Redis and Docker. Includes Jest, Supertest, test Coverage and Docker Compose.',
     image: '/assets/img/Backend API.png',
     link: '',
-    github: 'https://github.com/abdulvahabaa/Node-Mongoose-JWT-APIs-TS',
+    github: 'https://github.com/sanashaju/node-rest-api-ts',
     techStack: [
       techStacks.node,
       { icon: SiExpress, name: 'Express', color: '#000' },
@@ -89,7 +89,7 @@ export const projects: ProjectItem[] = [
       'This is a modern developer portfolio. Designed with a clean UI/UX, smooth animations, and dynamic content. it is fully responsive and optimized for performance.',
     image: '/assets/img/modern-portfolio.png',
     link: 'https://modern-portfolio-eta-eight.vercel.app/',
-    github: 'https://github.com/abdulvahabaa/modern-portfolio',
+    github: 'https://github.com/sanashaju/my-portfolio-nextjs',
     techStack: [
       techStacks.next,
       techStacks.react,
