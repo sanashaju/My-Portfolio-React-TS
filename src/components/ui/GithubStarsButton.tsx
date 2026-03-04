@@ -17,7 +17,7 @@ export function GithubStarsButton() {
   return (
     <div className="fixed bottom-6 left-6 z-50 group">
       <a
-        href="https://github.com/abdulvahabaa/react-ts-personal-portfolio"
+        href="https://github.com/sanashaju/My-Portfolio-React-TS"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center gap-2 p-2 bg-gray-900 text-white rounded-full shadow-md transition relative"

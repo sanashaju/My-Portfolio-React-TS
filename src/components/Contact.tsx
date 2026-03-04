@@ -1,7 +1,7 @@
 import { lazy, Suspense } from 'react';
 import { SectionTitle } from './ui/SectionTitle';
 import { SectionBackground } from './ui/SectionBackground';
-import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram } from 'react-icons/fa6';
+import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa6';
 import { SiLeetcode } from 'react-icons/si';
 import { Phone } from 'lucide-react';
 
@@ -49,7 +49,7 @@ export function Contact() {
                     </span>
                   </a>
                   <a
-                    href="https://github.com/abdulvahabaa"
+                    href="https://github.com/sanashaju"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-gray-50 dark:active:bg-gray-800/50 hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
@@ -58,11 +58,11 @@ export function Contact() {
                       <FaGithub className="w-4 h-4 sm:w-5 sm:h-5 text-gray-700 dark:text-gray-300" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-blue-600 dark:group-active/link:text-blue-400 md:group-hover/link:text-blue-600 dark:md:group-hover/link:text-blue-400 transition-colors duration-300 font-medium">
-                      github.com/abdulvahabaa
+                      github.com/sanashaju
                     </span>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/abdulvahabaa"
+                    href="https://www.linkedin.com/in/sanashaju"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-blue-50 dark:active:bg-blue-900/20 hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
@@ -71,11 +71,11 @@ export function Contact() {
                       <FaLinkedin className="w-4 h-4 sm:w-5 sm:h-5 text-blue-600 dark:text-blue-400" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-blue-600 dark:group-active/link:text-blue-400 md:group-hover/link:text-blue-600 dark:md:group-hover/link:text-blue-400 transition-colors duration-300 font-medium">
-                      linkedin.com/in/abdulvahabaa
+                      linkedin.com/in/sanashaju
                     </span>
                   </a>
                   <a
-                    href="https://leetcode.com/u/abdulvahabaa"
+                    href="https://leetcode.com/u/sanaillikkal/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-orange-50 dark:active:bg-orange-900/20 hover:bg-orange-50 dark:hover:bg-orange-900/20 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
@@ -84,7 +84,7 @@ export function Contact() {
                       <SiLeetcode className="w-4 h-4 sm:w-5 sm:h-5 text-orange-600 dark:text-orange-400" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-orange-600 dark:group-active/link:text-orange-400 md:group-hover/link:text-orange-600 dark:md:group-hover/link:text-orange-400 transition-colors duration-300 font-medium">
-                      leetcode.com/u/abdulvahabaa
+                      leetcode.com/u/sanaillikkal
                     </span>
                   </a>
                   <a
@@ -98,19 +98,6 @@ export function Contact() {
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-green-600 dark:group-active/link:text-green-400 md:group-hover/link:text-green-600 dark:md:group-hover/link:text-green-400 transition-colors duration-300 font-medium">
                       +91 7736709420
-                    </span>
-                  </a>
-                  <a
-                    href="https://www.instagram.com/abdulvahabaa/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-pink-50 dark:active:bg-pink-900/20 hover:bg-pink-50 dark:hover:bg-pink-900/20 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
-                  >
-                    <div className="p-1.5 sm:p-2 bg-pink-100 dark:bg-pink-900/50 rounded-lg group-active/link:bg-pink-200 dark:group-active/link:bg-pink-800/50 md:group-hover/link:bg-pink-200 dark:md:group-hover/link:bg-pink-800/50 transition-colors duration-300">
-                      <FaInstagram className="w-4 h-4 sm:w-5 sm:h-5 text-pink-600 dark:text-pink-400" />
-                    </div>
-                    <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-pink-600 dark:group-active/link:text-pink-400 md:group-hover/link:text-pink-600 dark:md:group-hover/link:text-pink-400 transition-colors duration-300 font-medium">
-                      instagram.com/abdulvahabaa
                     </span>
                   </a>
                 </div>
