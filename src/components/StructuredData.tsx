@@ -24,9 +24,9 @@ export function StructuredData() {
         'https://github.com/sanashaju',
         // Add your social media profiles here
         'https://linkedin.com/in/sanashaju',
-        'https://x.com/sanashaju',
+        // 'https://x.com/sanashaju',
         'https://leetcode.com/u/sanaillikkal/',
-        'https://twitter.com/sanashaju',
+        // 'https://twitter.com/sanashaju',
       ],
       knowsAbout: [
         'Full Stack Development',
@@ -49,12 +49,12 @@ export function StructuredData() {
     const professionalServiceSchema = {
       '@context': 'https://schema.org',
       '@type': 'ProfessionalService',
-      name: 'Abdul Vahab A A - Full Stack Development Services',
+      name: 'Sana Shaju - Full Stack Development Services',
       description:
-        'Full Stack Developer (MERN, MEAN, Nest.js) and Technical Trainer specializing in React, Angular, Next.js, Node.js, Nest.js, TypeScript, MongoDB, and PostgreSQL.',
+        'Full Stack Developer (MERN, Nest.js) specializing in React, Next.js, Node.js, Nest.js, TypeScript, MongoDB, and PostgreSQL.',
       provider: {
         '@type': 'Person',
-        name: 'Abdul Vahab A A',
+        name: 'Sana Shaju',
       },
       areaServed: {
         '@type': 'Country',
@@ -72,13 +72,13 @@ export function StructuredData() {
     const websiteSchema = {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
-      name: 'Abdul Vahab A A Portfolio',
-      url: 'https://abdulvahabaa.in',
+      name: 'Sana Shaju Portfolio',
+      url: 'https://sanaillikkal.in',
       description:
-        'Portfolio website of Abdul Vahab A A - Full Stack Developer and Technical Trainer',
+        'Portfolio website of Sana Shaju - Full Stack Developer ',
       author: {
         '@type': 'Person',
-        name: 'Abdul Vahab A A',
+        name: 'Sana Shaju',
       },
     };
 

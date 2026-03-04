@@ -38,14 +38,14 @@ export function Contact() {
 
                 <div className="space-y-3 sm:space-y-4">
                   <a
-                    href="mailto:abdulvahabaa.official@gmail.com"
+                    href="mailto:sanashajuillikkal@gmail.com"
                     className="group/link flex items-center gap-3 sm:gap-4 p-2.5 sm:p-3 rounded-lg sm:rounded-xl active:bg-blue-50 dark:active:bg-blue-900/20 hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-all duration-300 transform active:translate-x-1 md:hover:translate-x-2 active:scale-[0.98]"
                   >
                     <div className="p-1.5 sm:p-2 bg-blue-100 dark:bg-blue-900/50 rounded-lg group-active/link:bg-blue-200 dark:group-active/link:bg-blue-800/50 md:group-hover/link:bg-blue-200 dark:md:group-hover/link:bg-blue-800/50 transition-colors duration-300">
                       <FaEnvelope className="w-4 h-4 sm:w-5 sm:h-5 text-blue-600 dark:text-blue-400" />
                     </div>
                     <span className="text-sm sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-blue-600 dark:group-active/link:text-blue-400 md:group-hover/link:text-blue-600 dark:md:group-hover/link:text-blue-400 transition-colors duration-300 font-medium break-all">
-                      abdulvahabaa.official@gmail.com
+                      sanashajuillikkal@gmail.com
                     </span>
                   </a>
                   <a
@@ -97,7 +97,7 @@ export function Contact() {
                       <Phone className="w-4 h-4 sm:w-5 sm:h-5 text-green-600 dark:text-green-400" />
                     </div>
                     <span className="text-base sm:text-base md:text-lg text-gray-700 dark:text-gray-300 group-active/link:text-green-600 dark:group-active/link:text-green-400 md:group-hover/link:text-green-600 dark:md:group-hover/link:text-green-400 transition-colors duration-300 font-medium">
-                      +91 9747733770
+                      +91 7736709420
                     </span>
                   </a>
                   <a

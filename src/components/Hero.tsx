@@ -9,9 +9,7 @@ export function Hero() {
   const roles = [
     'Full Stack Developer',
     'Node.js & Nest.js Backend Developer',
-    'Angular & React.js Frontend Developer',
-    'Technical Trainer',
-    'Digital Content Creator',
+    'React.js Frontend Developer',
   ];
 
   return (
@@ -40,7 +38,7 @@ export function Hero() {
                 I'm
               </div>
               <h1 className="text-4xl lg:text-6xl font-bold bg-linear-to-r from-blue-600 via-purple-600 to-blue-600 bg-clip-text text-transparent animate-gradient">
-                Abdul Vahab A A
+                Sana Shaju
               </h1>
               <div className="text-xl md:text-2xl text-gray-600 dark:text-gray-300">
                 I'm a <TypeWriter words={roles} delay={100} />
@@ -66,7 +64,7 @@ export function Hero() {
             <div className="relative w-full max-w-lg mx-auto rounded-full overflow-hidden shadow-2xl">
               <img
                 src="/assets/profile.png"
-                alt="Abdul Vahab A A"
+                alt="Sana Shaju"
                 className="relative w-full h-auto block rounded-full transform hover:scale-105 transition-transform duration-500"
               />
               {/* Horizontal line: moves from top to bottom, repeats continuously */}
