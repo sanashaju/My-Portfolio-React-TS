@@ -1,26 +1,26 @@
 export const education = [
   {
-    degree: 'Bachelor of Computer Applications (BCA)',
-    institution: 'Sreenarayanaguru Open University',
-    period: 'Jul 2025 – Expected Apr 2028',
-    score: 'Ongoing',
+    degree: 'Bachelor of Science in Computer Science (BSc. CS)',
+    institution: 'Nirmala College of Arts and Science,Meloor',
+    period: 'Aug 2021 – Mar 2024',
+    // score: 'Ongoing',
   },
-  {
-    degree: 'Full Stack Development (MERN & MEAN)',
-    institution: 'Brototype',
-    period: 'Jul 2022 – Aug 2023',
-    score: '',
-  },
+  // {
+  //   degree: 'Full Stack Development (MERN & MEAN)',
+  //   institution: 'Brototype',
+  //   period: 'Jul 2022 – Aug 2023',
+  //   score: '',
+  // },
   {
     degree: 'Senior Secondary (Plus Two)',
-    institution: 'National Institute of Open Schooling',
-    period: 'Jul 2014 – Mar 2015',
+    institution: 'Govt.Model Girls Higher Secondary School, Irinjalakuda',
+    period: 'Jul 2019 – Mar 2021',
     score: '80%',
   },
   {
     degree: 'Secondary (SSLC)',
-    institution: `St. Antony's Higher Secondary School Moorkanad`,
-    period: 'Jul 2007 – Mar 2008',
+    institution: `Sreekrishna Higher Secondary School, Anandapuram`,
+    period: 'Jul 2018 – Mar 2019',
     score: '80%',
   },
 ];
