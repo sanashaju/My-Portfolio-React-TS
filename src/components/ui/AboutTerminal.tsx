@@ -60,7 +60,7 @@ export function AboutTerminal({
         <div className="h-3 w-3 rounded-full bg-yellow-500" />
         <div className="h-3 w-3 rounded-full bg-green-500" />
         <span className="ml-4 font-mono text-xs text-[#00f0ff]/70">
-          abdulvahab.bio
+          sanashaju.bio
         </span>
       </div>
       {/* Content area - fixed height, scroll inside so terminal size never changes */}
