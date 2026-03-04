@@ -20,13 +20,13 @@ const badges = [
   //   profile:
   //     'https://www.credly.com/badges/acc5fa97-0b4e-47c2-bc59-30e2d2a0161a/public_url',
   // },
-  // {
-  //   id: 'leetcode-50',
-  //   platform: 'LeetCode',
-  //   title: '50 Days Badge 2025',
-  //   image: 'https://assets.leetcode.com/static_assets/others/2550.gif',
-  //   profile: 'https://leetcode.com/u/abdulvahabaa/',
-  // },
+  {
+    id: 'leetcode-50',
+    platform: 'LeetCode',
+    title: '50 Days Badge 2025',
+    image: 'https://assets.leetcode.com/static_assets/others/2550.gif',
+    profile: 'https://leetcode.com/u/sanaillikkal/',
+  },
   // {
   //   id: 'leetcode-100',
   //   platform: 'LeetCode',
@@ -34,20 +34,20 @@ const badges = [
   //   image: 'https://assets.leetcode.com/static_assets/others/25100.gif',
   //   profile: 'https://leetcode.com/u/abdulvahabaa/',
   // },
-  // {
-  //   id: 'leetcode-top-sql-50',
-  //   platform: 'LeetCode',
-  //   title: 'Top SQL 50',
-  //   image: 'https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif',
-  //   profile: 'https://leetcode.com/u/abdulvahabaa/',
-  // },
-  // {
-  //   id: 'leetcode-leetcode-75',
-  //   platform: 'LeetCode',
-  //   title: 'LeetCode 75',
-  //   image: 'https://assets.leetcode.com/static_assets/others/LeetCode_75.gif',
-  //   profile: 'https://leetcode.com/u/abdulvahabaa/',
-  // },
+  {
+    id: 'leetcode-top-sql-50',
+    platform: 'LeetCode',
+    title: 'Top SQL 50',
+    image: 'https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif',
+    profile: 'https://leetcode.com/u/sanaillikkal/',
+  },
+  {
+    id: 'leetcode-leetcode-75',
+    platform: 'LeetCode',
+    title: 'LeetCode 75',
+    image: 'https://assets.leetcode.com/static_assets/others/LeetCode_75.gif',
+    profile: 'https://leetcode.com/u/sanaillikkal /',
+  },
   {
     id: 'github-shark',
     platform: 'GitHub',
