@@ -76,7 +76,7 @@ export function GitHub() {
           <div className="mb-10 flex flex-col items-center">
             <div className="w-full p-6 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-xl shadow-md transition-transform duration-300 hover:-translate-y-1 hover:shadow-2xl">
               <GitHubCalendar
-                username="abdulvahabaa"
+                username="sanashaju"
                 blockSize={14.6}
                 blockMargin={5}
                 colorScheme="light"

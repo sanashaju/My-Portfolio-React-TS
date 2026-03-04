@@ -88,7 +88,7 @@ export const projects: ProjectItem[] = [
     description:
       'This is a modern developer portfolio. Designed with a clean UI/UX, smooth animations, and dynamic content. it is fully responsive and optimized for performance.',
     image: '/assets/img/modern-portfolio.png',
-    link: 'https://modern-portfolio-eta-eight.vercel.app/',
+    link: 'https://www.sanaillikkal.in',
     github: 'https://github.com/sanashaju/my-portfolio-nextjs',
     techStack: [
       techStacks.next,
