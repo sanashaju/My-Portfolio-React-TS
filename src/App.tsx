@@ -14,9 +14,6 @@ import { Footer } from './components/Footer';
 const GitHub = lazy(() =>
   import('./components/GitHub').then(m => ({ default: m.GitHub }))
 );
-const YouTubeVideos = lazy(() =>
-  import('./components/YouTubeVideos').then(m => ({ default: m.YouTubeVideos }))
-);
 const Contact = lazy(() =>
   import('./components/Contact').then(m => ({ default: m.Contact }))
 );
@@ -67,9 +64,6 @@ function App() {
           <Experience />
           {/* <Certifications /> */}
           <Education />
-          <Suspense fallback={<div className="min-h-[300px]" aria-hidden />}>
-            <YouTubeVideos />
-          </Suspense>
           <Suspense fallback={<div className="min-h-[400px]" aria-hidden />}>
             <Contact />
           </Suspense>

@@ -49,7 +49,6 @@ export function Navbar() {
     { href: '#experience', label: 'Experience' },
     // { href: '#certifications', label: 'Certifications' },
     { href: '#education', label: 'Education' },
-    { href: '#youtube-videos', label: 'Videos' },
   ];
 
   return (
