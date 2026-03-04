@@ -2,14 +2,14 @@ import { SectionTitle } from './ui/SectionTitle';
 import { SectionBackground } from './ui/SectionBackground';
 
 const badges = [
-  {
-    id: 'Certified-Ethical-Hacker',
-    platform: 'EC-Council',
-    title: 'Certified Ethical Hacker',
-    image: '/assets/logos/CEH_2E345519D3F7.png',
-    profile:
-      'https://www.credly.com/badges/acc5fa97-0b4e-47c2-bc59-30e2d2a0161a/public_url',
-  },
+  // {
+  //   id: 'Certified-Ethical-Hacker',
+  //   platform: 'EC-Council',
+  //   title: 'Certified Ethical Hacker',
+  //   image: '/assets/logos/CEH_2E345519D3F7.png',
+  //   profile:
+  //     'https://www.credly.com/badges/acc5fa97-0b4e-47c2-bc59-30e2d2a0161a/public_url',
+  // },
 
   // {
   //   id: 'github-foundations',
@@ -54,7 +54,7 @@ const badges = [
     title: 'Pull Shark',
     image:
       'https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png',
-    profile: 'https://github.com/abdulvahabaaa',
+    profile: 'https://github.com/sanashaju',
   },
   {
     id: 'github-arctic',
@@ -62,7 +62,7 @@ const badges = [
     title: 'Starstruck',
     image:
       'https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png',
-    profile: 'https://github.com/abdulvahabaaa',
+    profile: 'https://github.com/sanashaju',
   },
 
   {
@@ -71,7 +71,7 @@ const badges = [
     title: 'YOLO',
     image:
       'https://github.githubassets.com/assets/yolo-default-be0bbff04951.png',
-    profile: 'https://github.com/abdulvahabaaa',
+    profile: 'https://github.com/sanashaju',
   },
 
   {
@@ -80,7 +80,7 @@ const badges = [
     title: 'Pair Extraordinary',
     image:
       'https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png',
-    profile: 'https://github.com/abdulvahabaaa',
+    profile: 'https://github.com/sanashaju',
   },
   {
     id: 'github-quickdraw',
@@ -88,7 +88,7 @@ const badges = [
     title: 'Quickdraw',
     image:
       'https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png',
-    profile: 'https://github.com/abdulvahabaaa',
+    profile: 'https://github.com/sanashaju',
   },
   // {
   //   id: 'github-galaxy-star',
