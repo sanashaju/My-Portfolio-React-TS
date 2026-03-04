@@ -31,7 +31,7 @@ const SPECIFIC_REPOS: Repo[] = [
     stars: 12,
     forks: 0,
     language: 'Node.js, TypeScript',
-    html_url: 'https://github.com/abdulvahabaa/Node-Mongoose-JWT-APIs-TS',
+    html_url: 'https://github.com/sanashaju/node-express-jwt-auth-api',
   },
   {
     name: 'react-ts-personal-portfolio',
@@ -40,7 +40,7 @@ const SPECIFIC_REPOS: Repo[] = [
     stars: 76,
     forks: 1,
     language: 'React.js, TypeScript',
-    html_url: 'https://github.com/abdulvahabaa/react-ts-personal-portfolio',
+    html_url: 'https://github.com/sanashaju/My-Portfolio-React-TS',
   },
   {
     name: 'modern-portfolio',
@@ -49,7 +49,7 @@ const SPECIFIC_REPOS: Repo[] = [
     stars: 12,
     forks: 1,
     language: 'Next.js, TypeScript',
-    html_url: 'https://github.com/abdulvahabaa/modern-portfolio',
+    html_url: 'https://github.com/sanashaju/my-portfolio-nextjs',
   },
 ];
 
