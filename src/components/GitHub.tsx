@@ -58,7 +58,7 @@ export function GitHub() {
   const [user, setUser] = useState<UserProfile | null>(null);
 
   useEffect(() => {
-    fetch('https://api.github.com/users/abdulvahabaa')
+    fetch('https://api.github.com/users/sanashaju')
       .then(res => res.json())
       .then((data: UserProfile) => setUser(data))
       .catch(() => {});
