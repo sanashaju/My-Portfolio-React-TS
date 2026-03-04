@@ -1,7 +1,6 @@
 // Barrel file: re-export all data from a single entry point
 
 export { default as confettiData } from './confetti.json';
-export { galleryData } from './gallery';
 export { experiences } from './experiences';
 export { education } from './education';
 export { services } from './services';

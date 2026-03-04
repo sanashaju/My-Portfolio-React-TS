@@ -5,7 +5,6 @@ import { About } from './components/About';
 import { Services } from './components/Services';
 import { Skills } from './components/Skills';
 import { Projects } from './components/Projects';
-import { Gallery } from './components/Gallery';
 import { Leetcode } from './components/Leetcode';
 import { Badges } from './components/Badges';
 import { Experience } from './components/Experience';
@@ -60,7 +59,6 @@ function App() {
           <Skills />
           {/* <Achievements /> */}
           <Projects />
-          <Gallery />
           <Suspense fallback={<div className="min-h-[400px]" aria-hidden />}>
             <GitHub />
           </Suspense>
