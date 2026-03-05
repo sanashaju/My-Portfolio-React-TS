@@ -65,7 +65,7 @@ export function Hero() {
               <img
                 src="/assets/profile.png"
                 alt="Sana Shaju"
-                className="relative w-full h-auto block rounded-full transform hover:scale-105 transition-transform duration-500"
+                className="relative w-full aspect-square object-cover object-center block rounded-full transform hover:scale-105 transition-transform duration-500"
               />
               {/* Horizontal line: moves from top to bottom, repeats continuously */}
               <div
