@@ -1,5 +1,24 @@
 export const experiences = [
   {
+    title: 'Freelance Web Developer',
+    company: 'Codyinger, Thrissur',
+    type: 'Remote',
+    period: 'Mar 2026 – Present',
+    description: `Built scalable solutions with cloud integration using modern frameworks and backend technologies. 
+    Implemented responsive designs, optimized performance, and ensured security best practices. Collaborated with clients to deliver tailored web applications that meet their business needs.`,
+    skills: [
+      'Next.js',
+      'TypeScript',
+      'React.js',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+      'PostgreSQL',
+      'AWS',
+      'Client Communication',
+    ],
+  },
+  {
     title: 'Full Stack Developer Intern',
     company: 'G-Tec Education, Irinjalakuda',
     type: 'On-site',
@@ -19,24 +38,4 @@ export const experiences = [
       'Git & GitHub',
     ],
   },
-  // {
-  //   title: 'Freelance Web Developer',
-  //   company: 'Codyinger, Thrissur',
-  //   type: 'Remote',
-  //   period: 'Nov 2024 – Dec 2025',
-  //   description: `Delivered 7+ full-stack projects including business websites and modern web applications with 78% client satisfaction. 
-  //   Built scalable solutions with cloud integration using modern frameworks and backend technologies. 
-  //   Managed full project cycles from architecture and development to deployment and long-term client support.`,
-  //   skills: [
-  //     'Next.js',
-  //     'TypeScript',
-  //     'React.js',
-  //     'Node.js',
-  //     'Express.js',
-  //     'MongoDB',
-  //     'PostgreSQL',
-  //     'Cloud Integrations',
-  //     'Client Communication',
-  //   ],
-  // },
 ];
