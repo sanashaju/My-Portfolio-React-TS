@@ -24,7 +24,7 @@ export const services: ServiceItem[] = [
     description:
       'Designing intuitive and visually engaging user interfaces that enhance user experience and improve product usability.',
     color: 'bg-purple-500',
-    image: '/assets/training.png',
+    image: '/assets/ui-ux.png',
   },
   {
     icon: Briefcase,
@@ -32,6 +32,6 @@ export const services: ServiceItem[] = [
     description:
       'Providing flexible, client-focused development and design services to deliver digital solutions for businesses.',
     color: 'bg-yellow-500',
-    image: '/assets/graphic design.png',
+    image: '/assets/freelancing.png',
   },
 ];
