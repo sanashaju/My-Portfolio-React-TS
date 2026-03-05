@@ -57,7 +57,7 @@ export const projects: ProjectItem[] = [
     description:
       'My portfolio website, showcasing my professional background and more. Clean, responsive, and shows off my work while keeping things simple and professional.',
     image: '/assets/img/portfolio.png',
-    link: 'https://abdulvahabaaa.in/',
+    link: 'https://sanaillikkal.in/',
     github: 'https://github.com/sanashaju/My-Portfolio-React-TS',
     techStack: [
       { icon: SiHtml5, name: 'HTML', color: '#e34c26' },

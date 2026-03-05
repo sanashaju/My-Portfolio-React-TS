@@ -8,7 +8,7 @@ export function StructuredData() {
       '@type': 'Person',
       name: 'Sana Shaju',
       url: 'https://sanashaju.in',
-      image: 'https://abdulvahabaa.in/assets/profile.png',
+      image: 'https://sanashaju.in/assets/profile.png',
       jobTitle: 'Full Stack Developer',
       worksFor: {
         '@type': 'Organization',

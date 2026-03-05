@@ -64,7 +64,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-12 px-4">
           {/* Logo */}
           <div className="cursor-pointer">
-            <img src="/assets/favicon.png" alt="Logo" className="h-8 w-auto" />
+            <img src="/assets/favicon.png" alt="Logo" className="h-8 w-auto rounded-lg shadow-sm" />
           </div>
 
           {/* Desktop Navigation */}

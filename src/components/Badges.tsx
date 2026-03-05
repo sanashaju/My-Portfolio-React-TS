@@ -32,7 +32,7 @@ const badges = [
   //   platform: 'LeetCode',
   //   title: '100 Days Badge 2025',
   //   image: 'https://assets.leetcode.com/static_assets/others/25100.gif',
-  //   profile: 'https://leetcode.com/u/abdulvahabaa/',
+  //   profile: 'https://leetcode.com/u/sanaillikkal/',
   // },
   {
     id: 'leetcode-top-sql-50',
@@ -46,7 +46,7 @@ const badges = [
     platform: 'LeetCode',
     title: 'LeetCode 75',
     image: 'https://assets.leetcode.com/static_assets/others/LeetCode_75.gif',
-    profile: 'https://leetcode.com/u/sanaillikkal /',
+    profile: 'https://leetcode.com/u/sanaillikkal/',
   },
   {
     id: 'github-shark',
@@ -96,7 +96,7 @@ const badges = [
   //   title: 'Galaxy Brain',
   //   image:
   //     'https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png',
-  //   profile: 'https://github.com/abdulvahabaaa',
+  //   profile: 'https://github.com/sanashaju',
   // },
 ];
 
