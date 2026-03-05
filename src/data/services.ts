@@ -1,5 +1,5 @@
 import type { LucideIcon } from 'lucide-react';
-import { Code2, Lightbulb, MonitorPlay } from 'lucide-react';
+import { Code2, Palette, Briefcase } from 'lucide-react';
 
 export interface ServiceItem {
   icon: LucideIcon;
@@ -19,7 +19,7 @@ export const services: ServiceItem[] = [
     image: '/assets/web dev.png',
   },
   {
-    icon: MonitorPlay,
+    icon: Palette,
     title: 'UI/UX Design',
     description:
       'Designing intuitive and visually engaging user interfaces that enhance user experience and improve product usability.',
@@ -27,7 +27,7 @@ export const services: ServiceItem[] = [
     image: '/assets/training.png',
   },
   {
-    icon: Lightbulb,
+    icon: Briefcase,
     title: 'Freelancing',
     description:
       'Providing flexible, client-focused development and design services to deliver digital solutions for businesses.',
