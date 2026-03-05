@@ -24,7 +24,7 @@ const badges = [
     id: 'leetcode-50',
     platform: 'LeetCode',
     title: '50 Days Badge 2025',
-    image: 'https://assets.leetcode.com/static_assets/others/2550.gif',
+    image: 'https://assets.leetcode.com/static_assets/others/50.gif',
     profile: 'https://leetcode.com/u/sanaillikkal/',
   },
   // {
