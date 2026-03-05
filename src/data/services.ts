@@ -20,17 +20,17 @@ export const services: ServiceItem[] = [
   },
   {
     icon: MonitorPlay,
-    title: 'Web Development Training',
+    title: 'UI/UX Design',
     description:
-      'Providing MERN, MEAN, Nest.js, Angular, and Django tutoring, YouTube lessons, and professional training at G-TECH',
+      'Designing intuitive and visually engaging user interfaces that enhance user experience and improve product usability.',
     color: 'bg-purple-500',
     image: '/assets/training.png',
   },
   {
     icon: Lightbulb,
-    title: 'Graphic Design',
+    title: 'Freelancing',
     description:
-      'Creating visually compelling graphics, logos, and branding materials to elevate your business presence.',
+      'Providing flexible, client-focused development and design services to deliver digital solutions for businesses.',
     color: 'bg-yellow-500',
     image: '/assets/graphic design.png',
   },
