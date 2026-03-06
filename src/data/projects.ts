@@ -14,7 +14,7 @@ import {
   SiStripe,
   SiAppwrite,
   SiHtml5,
-  SiCss3,
+  SiCss,
   SiExpress,
   SiRedis,
   SiDocker,
@@ -61,7 +61,7 @@ export const projects: ProjectItem[] = [
     github: 'https://github.com/sanashaju/My-Portfolio-React-TS',
     techStack: [
       { icon: SiHtml5, name: 'HTML', color: '#e34c26' },
-      { icon: SiCss3, name: 'CSS', color: '#264de4' },
+      { icon: SiCss, name: 'CSS', color: '#264de4' },
       techStacks.react,
       techStacks.tailwind,
       techStacks.typescript,

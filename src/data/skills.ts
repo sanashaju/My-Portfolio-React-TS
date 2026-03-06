@@ -1,7 +1,7 @@
 import type { IconType } from 'react-icons';
 import {
   SiHtml5,
-  SiCss3,
+  SiCss,
   SiJavascript,
   SiReact,
   SiMongodb,
@@ -14,19 +14,10 @@ import {
   SiExpress,
   SiPostgresql,
   SiPrisma,
-  SiPython,
   SiDocker,
   SiRedis,
   SiPostman,
-  SiAdobephotoshop,
-  SiAdobeillustrator,
-  SiAdobexd,
-  SiAdobepremierepro,
-  SiAngular,
-  SiKubernetes,
-  SiNx,
   SiNestjs,
-  SiBitbucket,
 } from 'react-icons/si';
 import { FaNodeJs, FaAws } from 'react-icons/fa6';
 import { VscVscode } from 'react-icons/vsc';
@@ -47,7 +38,7 @@ export const skills: SkillItem[] = [
   },
   {
     name: 'CSS',
-    icon: SiCss3,
+    icon: SiCss,
     color: '#1572b6',
     url: 'https://developer.mozilla.org/en-US/docs/Web/CSS',
   },
